@@ -1,0 +1,5 @@
+
+To set different configuration for different repositories
+username:- git config user.name "mounikavemunuri94"
+email address:- git config user.email "mounikavemunuri94@gmail.com"
+
